@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="94">
+	<ValidationCacheItem File="Y:\Desktop\201121GITREPOCOND\201121GITREPOCOND.crossover.wsettings" DateLow="1637411565" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Desktop\201121GITREPOCOND\201121GITREPOCOND.wproj" DateLow="1637409954" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\Desktop\201121GITREPOCOND\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1637409954" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\201121GITREPOCOND\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1637410170" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Desktop\201121GITREPOCOND\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1634909553" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Desktop\201121GITREPOCOND\Attenuations\Default Work Unit.wwu" DateLow="1637409954" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Desktop\201121GITREPOCOND\Audio Devices\Default Work Unit.wwu" DateLow="1637409954" DateHigh="0"/>
@@ -11,7 +12,7 @@
 	<ValidationCacheItem File="Y:\Desktop\201121GITREPOCOND\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1637409954" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Desktop\201121GITREPOCOND\Effects\Default Work Unit.wwu" DateLow="1637409954" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Desktop\201121GITREPOCOND\Effects\Factory Effects.wwu" DateLow="1634909552" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\Desktop\201121GITREPOCOND\Events\Default Work Unit.wwu" DateLow="1637409954" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Desktop\201121GITREPOCOND\Events\Default Work Unit.wwu" DateLow="1637411554" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Desktop\201121GITREPOCOND\Game Parameters\Default Work Unit.wwu" DateLow="1637409954" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Desktop\201121GITREPOCOND\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1637409954" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Desktop\201121GITREPOCOND\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1637409954" DateHigh="0"/>

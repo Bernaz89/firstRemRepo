@@ -6,6 +6,16 @@
 				<Sound Name="TEST REPO CONDIVISA" ID="{46ECD48A-41FF-40CC-9AE3-2943AD52E7C6}" ShortID="221894772">
 					<PropertyList>
 						<Property Name="IsVoice" Type="bool" Value="True"/>
+						<Property Name="OutputBusVolume" Type="Real64">
+							<ValueList>
+								<Value>-10</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-5</Value>
+							</ValueList>
+						</Property>
 					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
